@@ -1,6 +1,10 @@
 package modelo
 
-type Gramatica struct {
+type Produccion struct {
 	Simbolo    string
-	Produccion []string
+	Valores []string
 }
+
+
+//Simbolo:S
+//Produccion:kalsdkjasjdjf
